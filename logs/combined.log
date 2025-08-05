@@ -1,0 +1,371 @@
+2025-07-12 10:03:52 info: Loaded command: audit
+2025-07-12 10:03:52 info: Loaded command: blacklist
+2025-07-12 10:03:52 info: Loaded command: bonus
+2025-07-12 10:03:52 info: Loaded command: enter
+2025-07-12 10:03:52 info: Loaded command: giveaway
+2025-07-12 10:03:52 info: Loaded event: interactionCreate
+2025-07-12 10:03:52 info: Loaded event: messageReactionAdd
+2025-07-12 10:03:52 info: Loaded event: ready
+2025-07-12 10:03:56 info: Connected to MongoDB
+2025-07-12 10:03:56 info: Loading 0 active giveaways
+2025-07-12 10:03:57 info: Logged in as CatBot#8529
+2025-07-12 10:04:23 info: Added command: audit
+2025-07-12 10:04:23 info: Added command: blacklist
+2025-07-12 10:04:23 info: Added command: bonus
+2025-07-12 10:04:23 info: Added command: enter
+2025-07-12 10:04:23 info: Added command: giveaway
+2025-07-12 10:04:23 info: Started refreshing 5 application (/) commands.
+2025-07-12 10:04:23 info: Successfully reloaded 5 application (/) commands.
+2025-07-12 10:04:35 info: Loaded command: audit
+2025-07-12 10:04:35 info: Loaded command: blacklist
+2025-07-12 10:04:35 info: Loaded command: bonus
+2025-07-12 10:04:35 info: Loaded command: enter
+2025-07-12 10:04:35 info: Loaded command: giveaway
+2025-07-12 10:04:35 info: Loaded event: interactionCreate
+2025-07-12 10:04:35 info: Loaded event: messageReactionAdd
+2025-07-12 10:04:35 info: Loaded event: ready
+2025-07-12 10:04:36 info: Connected to MongoDB
+2025-07-12 10:04:36 info: Loading 0 active giveaways
+2025-07-12 10:04:37 info: Logged in as CatBot#8529
+2025-07-12 10:07:11 info: Loaded command: audit
+2025-07-12 10:07:11 info: Loaded command: blacklist
+2025-07-12 10:07:11 info: Loaded command: bonus
+2025-07-12 10:07:11 info: Loaded command: enter
+2025-07-12 10:07:11 info: Loaded command: giveaway
+2025-07-12 10:07:11 info: Loaded event: interactionCreate
+2025-07-12 10:07:11 info: Loaded event: messageReactionAdd
+2025-07-12 10:07:11 info: Loaded event: ready
+2025-07-12 10:07:12 info: Connected to MongoDB
+2025-07-12 10:07:12 info: Loading 1 active giveaways
+2025-07-12 10:07:13 info: Logged in as CatBot#8529
+2025-07-12 17:49:44 info: Loaded command: audit
+2025-07-12 17:49:44 info: Loaded command: blacklist
+2025-07-12 17:49:44 info: Loaded command: bonus
+2025-07-12 17:49:44 info: Loaded command: enter
+2025-07-12 17:49:44 info: Loaded command: giveaway
+2025-07-12 17:49:44 info: Loaded event: interactionCreate
+2025-07-12 17:49:44 info: Loaded event: messageReactionAdd
+2025-07-12 17:49:44 info: Loaded event: ready
+2025-07-12 17:49:45 info: Connected to MongoDB
+2025-07-12 17:49:45 info: Loading 0 active giveaways
+2025-07-12 17:49:46 info: Logged in as CatBot#8529
+2025-07-12 18:08:57 info: Loaded command: audit
+2025-07-12 18:08:57 info: Loaded command: blacklist
+2025-07-12 18:08:57 info: Loaded command: bonus
+2025-07-12 18:08:57 info: Loaded command: enter
+2025-07-12 18:08:57 info: Loaded command: giveaway
+2025-07-12 18:08:57 info: Loaded event: interactionCreate
+2025-07-12 18:08:57 info: Loaded event: ready
+2025-07-12 18:08:57 info: Loaded button: enter_giveaway_
+2025-07-12 18:08:58 info: Connected to MongoDB
+2025-07-12 18:08:58 info: Loading 0 active giveaways
+2025-07-12 18:08:59 info: Logged in as CatBot#8529
+2025-07-12 18:13:43 info: Loaded command: audit
+2025-07-12 18:13:44 info: Loaded command: blacklist
+2025-07-12 18:13:44 info: Loaded command: bonus
+2025-07-12 18:13:44 info: Loaded command: enter
+2025-07-12 18:13:44 info: Loaded command: giveaway
+2025-07-12 18:13:44 info: Loaded event: interactionCreate
+2025-07-12 18:13:44 info: Loaded event: ready
+2025-07-12 18:13:44 info: Loaded button: enter_giveaway_
+2025-07-12 18:13:44 info: Connected to MongoDB
+2025-07-12 18:13:45 info: Loading 0 active giveaways
+2025-07-12 18:13:45 info: Logged in as CatBot#8529
+2025-07-12 18:19:00 info: Loaded command: audit
+2025-07-12 18:19:00 info: Loaded command: blacklist
+2025-07-12 18:19:00 info: Loaded command: bonus
+2025-07-12 18:19:00 info: Loaded command: enter
+2025-07-12 18:19:00 info: Loaded command: giveaway
+2025-07-12 18:19:00 info: Loaded event: interactionCreate
+2025-07-12 18:19:00 info: Loaded event: ready
+2025-07-12 18:19:00 info: Loaded button: enter_giveaway_
+2025-07-12 18:19:01 info: Connected to MongoDB
+2025-07-12 18:19:01 info: Loading 0 active giveaways
+2025-07-12 18:19:03 info: Logged in as CatBot#8529
+2025-07-13 19:36:55 info: Loaded command: audit
+2025-07-13 19:36:55 info: Loaded command: blacklist
+2025-07-13 19:36:55 info: Loaded command: bonus
+2025-07-13 19:36:55 info: Loaded command: enter
+2025-07-13 19:36:55 info: Loaded command: giveaway
+2025-07-13 19:36:55 info: Loaded event: interactionCreate
+2025-07-13 19:36:55 info: Loaded event: ready
+2025-07-13 19:36:55 info: Loaded button: enter_giveaway_
+2025-07-13 19:36:56 info: Connected to MongoDB
+2025-07-13 19:36:56 info: Loading 0 active giveaways
+2025-07-13 19:36:57 info: Logged in as CatBot#8529
+2025-07-13 19:49:07 info: Loaded command: audit
+2025-07-13 19:49:07 info: Loaded command: enter
+2025-07-13 19:49:07 info: Loaded command: giveaway
+2025-07-13 19:49:07 info: Loaded event: interactionCreate
+2025-07-13 19:49:07 info: Loaded event: ready
+2025-07-13 19:49:07 info: Loaded button: enter_giveaway_
+2025-07-13 19:49:08 info: Connected to MongoDB
+2025-07-13 19:49:08 info: Loading 0 active giveaways
+2025-07-13 19:49:08 info: Logged in as CatBot#8529
+2025-07-13 20:18:12 info: Started removing all application (/) commands.
+2025-07-13 20:18:13 info: Successfully removed all application (/) commands.
+2025-07-13 20:18:52 info: Added command: audit
+2025-07-13 20:18:52 info: Added command: enter
+2025-07-13 20:18:52 info: Added command: giveaway
+2025-07-13 20:18:52 info: Started refreshing 3 application (/) commands.
+2025-07-13 20:18:53 info: Successfully reloaded 3 application (/) commands.
+2025-07-13 20:19:55 info: Loaded command: audit
+2025-07-13 20:19:55 info: Loaded command: enter
+2025-07-13 20:19:55 info: Loaded command: giveaway
+2025-07-13 20:19:55 info: Loaded event: interactionCreate
+2025-07-13 20:19:55 info: Loaded event: ready
+2025-07-13 20:19:55 info: Loaded button: enter_giveaway_
+2025-07-13 20:19:56 info: Connected to MongoDB
+2025-07-13 20:19:57 info: Loading 0 active giveaways
+2025-07-13 20:19:57 info: Logged in as CatBot#8529
+2025-07-13 20:25:10 info: Started removing all application (/) commands.
+2025-07-13 20:25:12 info: Successfully removed all application (/) commands globally and from the guild.
+2025-07-13 20:29:07 info: Started removing all application (/) commands.
+2025-07-13 20:29:07 info: Successfully removed all application (/) commands globally and from the guild.
+2025-07-13 20:29:43 info: Added command: audit
+2025-07-13 20:29:43 info: Added command: enter
+2025-07-13 20:29:43 info: Added command: giveaway
+2025-07-13 20:29:43 info: Started refreshing 3 application (/) commands.
+2025-07-13 20:29:44 info: Successfully reloaded 3 application (/) commands.
+2025-07-13 20:29:56 info: Loaded command: audit
+2025-07-13 20:29:56 info: Loaded command: enter
+2025-07-13 20:29:56 info: Loaded command: giveaway
+2025-07-13 20:29:56 info: Loaded event: interactionCreate
+2025-07-13 20:29:56 info: Loaded event: ready
+2025-07-13 20:29:56 info: Loaded button: enter_giveaway_
+2025-07-13 20:29:57 info: Connected to MongoDB
+2025-07-13 20:29:57 info: Loading 0 active giveaways
+2025-07-13 20:29:58 info: Logged in as CatBot#8529
+2025-07-13 20:31:20 error: Error creating giveaway: Cannot read properties of undefined (reading 'id')
+2025-07-13 20:31:20 error: Error creating giveaway: Cannot read properties of undefined (reading 'id')
+2025-07-13 20:55:47 info: Loaded command: audit
+2025-07-13 20:55:47 info: Loaded command: enter
+2025-07-13 20:55:47 info: Loaded command: giveaway
+2025-07-13 20:55:47 info: Loaded command: giveawaystats
+2025-07-13 20:55:47 info: Loaded event: interactionCreate
+2025-07-13 20:55:47 info: Loaded event: ready
+2025-07-13 20:55:47 info: Loaded button: /^audit_(prev|next)_\d+_\d+$/
+2025-07-13 20:55:47 info: Loaded button: enter_giveaway_
+2025-07-13 20:55:47 info: Connected to MongoDB
+2025-07-13 20:55:48 info: Loading 0 active giveaways
+2025-07-13 20:55:49 info: Logged in as CatBot#8529
+2025-07-13 20:57:31 info: Loaded command: audit
+2025-07-13 20:57:31 info: Loaded command: enter
+2025-07-13 20:57:31 info: Loaded command: giveaway
+2025-07-13 20:57:31 info: Loaded command: giveawaystats
+2025-07-13 20:57:31 info: Loaded event: interactionCreate
+2025-07-13 20:57:31 info: Loaded event: ready
+2025-07-13 20:57:31 info: Loaded button: /^audit_(prev|next)_\d+_\d+$/
+2025-07-13 20:57:31 info: Loaded button: enter_giveaway_
+2025-07-13 20:57:32 info: Connected to MongoDB
+2025-07-13 20:57:32 info: Loading 0 active giveaways
+2025-07-13 20:57:32 info: Logged in as CatBot#8529
+2025-07-13 21:27:11 info: Loaded command: audit
+2025-07-13 21:27:11 info: Loaded command: enter
+2025-07-13 21:27:11 info: Loaded command: giveaway
+2025-07-13 21:27:11 info: Loaded command: giveawaystats
+2025-07-13 21:27:11 info: Loaded event: interactionCreate
+2025-07-13 21:27:11 info: Loaded event: ready
+2025-07-13 21:27:11 info: Loaded button: /^audit_(prev|next)_\d+_\d+$/
+2025-07-13 21:27:11 info: Loaded button: enter_giveaway_
+2025-07-13 21:27:12 info: Connected to MongoDB
+2025-07-13 21:27:12 info: Loading 1 active giveaways
+2025-07-13 21:27:12 error: Channel 1196876585471594605 not found for giveaway 1393977336583557130
+2025-07-13 21:27:13 info: Logged in as CatBot#8529
+2025-07-13 21:43:31 info: Loaded command: audit
+2025-07-13 21:43:31 info: Loaded command: enter
+2025-07-13 21:43:31 info: Loaded command: giveaway
+2025-07-13 21:43:31 info: Loaded command: giveawaystats
+2025-07-13 21:43:31 info: Loaded event: interactionCreate
+2025-07-13 21:43:31 info: Loaded event: ready
+2025-07-13 21:43:31 info: Loaded button: /^audit_(prev|next)_\d+_\d+$/
+2025-07-13 21:43:31 info: Loaded button: enter_giveaway_
+2025-07-13 21:43:32 info: Connected to MongoDB
+2025-07-13 21:43:32 info: Loading 0 active giveaways
+2025-07-13 21:43:33 info: Logged in as CatBot#8529
+2025-07-13 21:46:41 info: Loaded command: audit
+2025-07-13 21:46:41 info: Loaded command: enter
+2025-07-13 21:46:41 info: Loaded command: giveaway
+2025-07-13 21:46:41 info: Loaded command: giveawaystats
+2025-07-13 21:46:41 info: Loaded event: interactionCreate
+2025-07-13 21:46:41 info: Loaded event: ready
+2025-07-13 21:46:41 info: Loaded button: /^audit_(prev|next)_\d+_\d+$/
+2025-07-13 21:46:41 info: Loaded button: enter_giveaway_
+2025-07-13 21:46:42 info: Connected to MongoDB
+2025-07-13 21:46:42 info: Loading 0 active giveaways
+2025-07-13 21:46:43 info: Logged in as CatBot#8529
+2025-07-13 22:00:02 info: Loaded command: audit
+2025-07-13 22:00:02 info: Loaded command: enter
+2025-07-13 22:00:02 info: Loaded command: giveaway
+2025-07-13 22:00:02 info: Loaded command: giveawaystats
+2025-07-13 22:00:02 info: Loaded event: interactionCreate
+2025-07-13 22:00:02 info: Loaded event: ready
+2025-07-13 22:00:02 info: Loaded button: /^audit_(prev|next)_\d+_\d+$/
+2025-07-13 22:00:02 info: Loaded button: enter_giveaway_
+2025-07-13 22:00:03 info: Connected to MongoDB
+2025-07-13 22:00:03 info: Loading 0 active giveaways
+2025-07-13 22:00:04 info: Logged in as CatBot#8529
+2025-07-14 18:58:45 info: Loaded command: audit
+2025-07-14 18:58:45 info: Loaded command: drop
+2025-07-14 18:58:45 info: Loaded command: enter
+2025-07-14 18:58:45 info: Loaded command: giveaway
+2025-07-14 18:58:46 info: Loaded command: giveawaystats
+2025-07-14 18:58:46 info: Loaded event: interactionCreate
+2025-07-14 18:58:46 info: Loaded event: ready
+2025-07-14 18:58:46 info: Loaded button: /^audit_(prev|next)_\d+_\d+$/
+2025-07-14 18:58:46 info: Loaded button: claim_drop_
+2025-07-14 18:58:46 info: Loaded button: enter_giveaway_
+2025-07-14 18:58:46 info: Connected to MongoDB
+2025-07-14 18:58:47 info: Loading 0 active giveaways
+2025-07-14 18:58:47 info: Logged in as CatBot#8529
+2025-07-14 18:59:14 info: Added command: audit
+2025-07-14 18:59:14 info: Added command: drop
+2025-07-14 18:59:14 info: Added command: enter
+2025-07-14 18:59:14 info: Added command: giveaway
+2025-07-14 18:59:14 info: Added command: giveawaystats
+2025-07-14 18:59:14 info: Started refreshing 5 application (/) commands.
+2025-07-14 18:59:14 info: Successfully reloaded 5 application (/) commands globally.
+2025-07-14 18:59:22 info: Loaded command: audit
+2025-07-14 18:59:22 info: Loaded command: drop
+2025-07-14 18:59:22 info: Loaded command: enter
+2025-07-14 18:59:22 info: Loaded command: giveaway
+2025-07-14 18:59:22 info: Loaded command: giveawaystats
+2025-07-14 18:59:22 info: Loaded event: interactionCreate
+2025-07-14 18:59:22 info: Loaded event: ready
+2025-07-14 18:59:22 info: Loaded button: /^audit_(prev|next)_\d+_\d+$/
+2025-07-14 18:59:22 info: Loaded button: claim_drop_
+2025-07-14 18:59:22 info: Loaded button: enter_giveaway_
+2025-07-14 18:59:23 info: Connected to MongoDB
+2025-07-14 18:59:23 info: Loading 0 active giveaways
+2025-07-14 18:59:24 info: Logged in as CatBot#8529
+2025-07-14 19:14:13 info: Loaded command: audit
+2025-07-14 19:14:13 info: Loaded command: drop
+2025-07-14 19:14:13 info: Loaded command: enter
+2025-07-14 19:14:13 info: Loaded command: giveaway
+2025-07-14 19:14:13 info: Loaded command: giveawaystats
+2025-07-14 19:14:13 info: Loaded event: interactionCreate
+2025-07-14 19:14:13 info: Loaded event: ready
+2025-07-14 19:14:13 info: Loaded button: /^audit_(prev|next)_\d+_\d+$/
+2025-07-14 19:14:13 info: Loaded button: claim_drop_
+2025-07-14 19:14:13 info: Loaded button: enter_giveaway_
+2025-07-14 19:14:13 info: Connected to MongoDB
+2025-07-14 19:14:14 info: Loading 0 active giveaways
+2025-07-14 19:14:14 info: Logged in as CatBot#8529
+2025-07-14 19:15:05 info: Started removing all application (/) commands.
+2025-07-14 19:15:06 info: Successfully removed all application (/) commands globally and from the guild.
+2025-07-14 19:15:12 info: Loaded command: audit
+2025-07-14 19:15:12 info: Loaded command: drop
+2025-07-14 19:15:12 info: Loaded command: enter
+2025-07-14 19:15:12 info: Loaded command: giveaway
+2025-07-14 19:15:12 info: Loaded command: giveawaystats
+2025-07-14 19:15:12 info: Loaded event: interactionCreate
+2025-07-14 19:15:12 info: Loaded event: ready
+2025-07-14 19:15:12 info: Loaded button: /^audit_(prev|next)_\d+_\d+$/
+2025-07-14 19:15:12 info: Loaded button: claim_drop_
+2025-07-14 19:15:12 info: Loaded button: enter_giveaway_
+2025-07-14 19:15:13 info: Connected to MongoDB
+2025-07-14 19:15:13 info: Loading 0 active giveaways
+2025-07-14 19:15:14 info: Logged in as CatBot#8529
+2025-07-14 19:15:27 info: Added command: audit
+2025-07-14 19:15:27 info: Added command: drop
+2025-07-14 19:15:27 info: Added command: enter
+2025-07-14 19:15:27 info: Added command: giveaway
+2025-07-14 19:15:27 info: Added command: giveawaystats
+2025-07-14 19:15:27 info: Started refreshing 5 application (/) commands.
+2025-07-14 19:15:28 info: Successfully reloaded 5 application (/) commands globally.
+2025-07-14 19:15:37 info: Loaded command: audit
+2025-07-14 19:15:37 info: Loaded command: drop
+2025-07-14 19:15:37 info: Loaded command: enter
+2025-07-14 19:15:37 info: Loaded command: giveaway
+2025-07-14 19:15:37 info: Loaded command: giveawaystats
+2025-07-14 19:15:37 info: Loaded event: interactionCreate
+2025-07-14 19:15:37 info: Loaded event: ready
+2025-07-14 19:15:37 info: Loaded button: /^audit_(prev|next)_\d+_\d+$/
+2025-07-14 19:15:37 info: Loaded button: claim_drop_
+2025-07-14 19:15:37 info: Loaded button: enter_giveaway_
+2025-07-14 19:15:38 info: Connected to MongoDB
+2025-07-14 19:15:38 info: Loading 0 active giveaways
+2025-07-14 19:15:39 info: Logged in as CatBot#8529
+2025-07-14 19:26:08 info: Loaded command: audit
+2025-07-14 19:26:08 info: Loaded command: drop
+2025-07-14 19:26:08 info: Loaded command: enter
+2025-07-14 19:26:08 info: Loaded command: giveaway
+2025-07-14 19:26:08 info: Loaded command: giveawaystats
+2025-07-14 19:26:08 info: Loaded event: interactionCreate
+2025-07-14 19:26:08 info: Loaded event: ready
+2025-07-14 19:26:08 info: Loaded button: /^audit_(prev|next)_\d+_\d+$/
+2025-07-14 19:26:08 info: Loaded button: claim_drop_
+2025-07-14 19:26:08 info: Loaded button: enter_giveaway_
+2025-07-14 19:26:09 info: Connected to MongoDB
+2025-07-14 19:26:10 info: Loading 0 active giveaways
+2025-07-14 19:26:10 info: Logged in as CatBot#8529
+2025-07-14 20:53:57 info: Started removing all application (/) commands.
+2025-07-14 20:53:58 info: Successfully removed all application (/) commands globally and from the guild.
+2025-07-14 20:54:14 info: Added command: allowgiveaway
+2025-07-14 20:54:16 info: Added command: audit
+2025-07-14 20:54:16 info: Added command: drop
+2025-07-14 20:54:16 info: Added command: enter
+2025-07-14 20:54:16 info: Added command: giveaway
+2025-07-14 20:54:16 info: Added command: giveawaystats
+2025-07-14 20:54:16 info: Started refreshing 6 application (/) commands.
+2025-07-14 20:54:17 info: Successfully reloaded 6 application (/) commands globally.
+2025-07-14 20:56:22 info: Started removing all application (/) commands.
+2025-07-14 20:56:24 info: Successfully removed all application (/) commands globally and from the guild.
+2025-07-14 20:56:31 info: Added command: allowdrops
+2025-07-14 20:56:31 info: Added command: allowgiveaway
+2025-07-14 20:56:32 info: Added command: audit
+2025-07-14 20:56:32 info: Added command: drop
+2025-07-14 20:56:32 info: Added command: enter
+2025-07-14 20:56:32 info: Added command: giveaway
+2025-07-14 20:56:32 info: Added command: giveawaystats
+2025-07-14 20:56:32 info: Started refreshing 7 application (/) commands.
+2025-07-14 20:56:33 info: Successfully reloaded 7 application (/) commands globally.
+2025-07-14 21:54:48 info: Started removing all application (/) commands.
+2025-07-14 21:54:49 info: Successfully removed all application (/) commands globally and from the guild.
+2025-07-14 21:55:02 info: Added command: allowdrops
+2025-07-14 21:55:02 info: Added command: allowgiveaway
+2025-07-14 21:55:02 info: Added command: audit
+2025-07-14 21:55:02 info: Added command: drop
+2025-07-14 21:55:02 info: Added command: enter
+2025-07-14 21:55:02 info: Added command: giveaway
+2025-07-14 21:55:02 info: Added command: giveawaystats
+2025-07-14 21:55:02 info: Started refreshing 7 application (/) commands.
+2025-07-14 21:55:03 info: Successfully reloaded 7 application (/) commands globally.
+2025-07-15 12:34:28 info: Added command: 2048
+2025-07-15 12:34:28 info: Added command: battleship
+2025-07-15 12:34:28 info: Added command: chess
+2025-07-15 12:34:28 info: Added command: connect4
+2025-07-15 12:34:28 info: Added command: lightsout
+2025-07-15 12:34:28 info: Added command: memorygrid
+2025-07-15 12:34:28 info: Added command: minesweeper
+2025-07-15 12:34:28 info: Added command: wordle
+2025-07-15 12:34:29 info: Added command: allowdrops
+2025-07-15 12:34:29 info: Added command: allowgiveaway
+2025-07-15 12:34:29 info: Added command: audit
+2025-07-15 12:34:29 info: Added command: drop
+2025-07-15 12:34:29 info: Added command: enter
+2025-07-15 12:34:29 info: Added command: giveaway
+2025-07-15 12:34:29 info: Added command: giveawaystats
+2025-07-15 12:34:29 info: Started refreshing 15 application (/) commands.
+2025-07-15 12:34:30 info: Successfully reloaded 15 application (/) commands globally.
+2025-08-05 23:56:56 info: Added command: allowdrops
+2025-08-05 23:56:56 info: Added command: allowgiveaway
+2025-08-05 23:56:57 info: Added command: audit
+2025-08-05 23:56:57 info: Added command: cooldown
+2025-08-05 23:56:57 info: Added command: drop
+2025-08-05 23:56:57 info: Added command: enter
+2025-08-05 23:56:57 info: Added command: giveaway
+2025-08-05 23:56:57 info: Added command: giveawaystats
+2025-08-05 23:56:57 info: Started refreshing 8 application (/) commands.
+2025-08-05 23:56:58 info: Successfully reloaded 8 application (/) commands globally.
+2025-08-06 00:16:11 info: Added command: allowdrops
+2025-08-06 00:16:11 info: Added command: allowgiveaway
+2025-08-06 00:16:11 info: Added command: audit
+2025-08-06 00:16:11 info: Added command: blacklist
+2025-08-06 00:16:11 info: Added command: cooldown
+2025-08-06 00:16:11 info: Added command: drop
+2025-08-06 00:16:11 info: Added command: enter
+2025-08-06 00:16:11 info: Added command: giveaway
+2025-08-06 00:16:11 info: Added command: giveawaystats
+2025-08-06 00:16:11 info: Started refreshing 9 application (/) commands.
+2025-08-06 00:16:12 info: Successfully reloaded 9 application (/) commands globally.
